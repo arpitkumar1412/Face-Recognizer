@@ -1,6 +1,9 @@
 # Face-Recognizer
 
-Running the tests
+HaarCascade classifier can be downloaded from the link given below and store it in the same folder as the rest of the file.
+  https://github.com/opencv/opencv/blob/master/data/haarcascades/haarcascade_frontalface_default.xml
+
+# Running test
 
 Run Tester.py script on commandline to train recognizer on training images and also predict test_img:
 
